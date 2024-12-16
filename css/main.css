@@ -382,7 +382,7 @@ a.link::after {
   .whitebox .icon {
     width: 44px;
   }
-  
+
   .whitebox h1 {
     font-size: 36px;
   }
@@ -2919,6 +2919,10 @@ footer .navigations .map:nth-child(6) {
 footer .navigations .map h3 {
   font-size: 12px;
   font-weight: 600;
+}
+
+footer .navigations .map h3 .icon {
+  display: none;
 }
 
 footer .navigations .map li {
